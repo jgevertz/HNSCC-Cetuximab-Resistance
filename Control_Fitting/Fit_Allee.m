@@ -51,9 +51,8 @@ Figures = gobjects(num_mice,numreps + 1);
 
 %% Sobol parameters
 min_r = -0.2; max_r = .2; % change to 0.2
-n_Sbpts = 1500; %000; % 1.5e6
-n_SApts = 500;% 000; % 5e5
-num_mice = 4;
+n_Sbpts = 1500000; % 1.5e6
+n_SApts = 500000; % 5e5
 SA_SSEs1 = {};
 SA_SSEs2 = {};
 
