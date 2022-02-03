@@ -9,12 +9,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear all; close all;
-
-% Clock function and saves best fit each time
-cl = clock; clN = 0;
-for ii = 2:5
-    clN = floor(100*clN + cl(ii));
-end
 path = 'Best_Fit_Allee';
 if exist(path, 'dir') ~= 7
     mkdir(path)
