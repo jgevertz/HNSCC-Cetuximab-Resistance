@@ -1,5 +1,5 @@
 # HNSCC-Cetuximab-Resistance
-Data and code associated with "Using Mathematical Modeling to Distinguish Intrinsic and Acquired Targeted Therapeutic Resistance in Head and Neck Cancer"
+Data and code associated with "Using Mathematical Modeling to Distinguish Intrinsic and Acquired Targeted Therapeutic Resistance in Head and Neck Cancer" published in npj Systems Biology and Applications: https://www.nature.com/articles/s41540-022-00244-7.epdf?sharing_token=spNHPtxoUTvaHF7chznEw9RgN0jAjWel9jnR3ZoTv0NNDghiuI6z6OTp_Qj7-3NfmIo71qJAz1GsXArgMICESXAAhtlBQzlEMvWar7eR5KWxTmgTZhE1Prlcx2Pji_APNwTWKxAYcss12onWsgQ0XkbUGkMPqJZE0sApKJeGbwE%3D
 
 - Raw experimental data can be found in Raw_Data folder, with control mice found in Control_data.xlsx and cetuximab-treated mice found in CTX_data.xlsx
 - Censored experimental data, used for fitting, can be found in the Censored_Data folder
